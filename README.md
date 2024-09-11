@@ -1,3 +1,3 @@
 # security_engineering
 
-This file is for exercises/tasks for Security Engineering course.
+Security Engineering 2024 course exercises/tasks
