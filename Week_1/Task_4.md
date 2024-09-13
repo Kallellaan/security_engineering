@@ -2,7 +2,7 @@ Task 4: Personal Security Audit
 
 4A
 
-  1. My scan shows 6 devices, 5 of which I'm aware of but i'm not sure what the 6th is if I understood the scan correctly.
+  1. My scan shows 5 devices all of which I'm aware of.
   2. I dont think I have any ports open that shouldnt be
   3. I dont see reported vulnerabilities if they should be easily visible in the output
 
