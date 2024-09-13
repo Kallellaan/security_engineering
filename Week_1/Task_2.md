@@ -1,6 +1,6 @@
       Task 2: Company Security Policy
 
-Password Policy
+**Password Policy**
 
 To protect organizational data and systems the employees are required certain rules regarding password's and their maintenance.
 
@@ -26,7 +26,7 @@ Failure to login
   * 
 
 
-System Authentication Policy
+**System Authentication Policy**
 
 This policy applies to the **remote use** certain applications to provide sufficient security and prevent any unauthorized access to the tools and data.
 To access these tools the user must be connected to the company VPN service before gaining access.
